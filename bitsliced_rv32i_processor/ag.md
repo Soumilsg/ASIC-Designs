@@ -923,7 +923,7 @@ Total Elapsed Time:  1 sec
 
 ### Layout
 
-<p float="left"> <img src="mp_datapath_04-27T23:59_datapath_sch.png" width=25%> <img src="mp_datapath_04-27T23:59_datapath_layout.png" width=25%> </p>
+<p float="left"> <img src="bitsliced.png" width=25%> <img src="bitsliced_schematic.png" width=25%> </p>
 
 ## datapath_s
 |Tests|Result|
@@ -2171,4 +2171,4 @@ Total Elapsed Time:  1 sec
 
 ### Layout
 
-<p float="left"> <img src="mp_datapath_04-27T23:59_datapath_s_sch.png" width=25%> <img src="mp_datapath_04-27T23:59_datapath_s_layout.png" width=25%> </p>
+<p float="left"> <img src="bitsliced_withshifter.png" width=25%> <img src="bitsliced_withshifter_schematic.png" width=25%> </p>
