@@ -1,1 +1,0 @@
-/home/soumilg2/Documents/ece425_work/mp_pnr/provided/synth/outputs/cpu.sdc
